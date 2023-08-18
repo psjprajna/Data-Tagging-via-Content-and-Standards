@@ -28,3 +28,6 @@ mallet_path = 'path/to/mallet-2.0.8/bin/mallet'
 
 ## Use Case
 This solution will enable organizations to tag data and upload the collections into their catalog as records. The tags will be useful in building a search engine for the catalog that will allow users to pull datasets based on keywords that match the tags. For example, if a user wants to find a data collection related to sports, he can enter it in the search box and the collections with tags that match this keyword in the data catalog will be retrieved by the search engine.
+
+# Data-Tagging-via-Content-and-Standards
+An approach to organize text data generated from URLs by tagging it to facilitate data cataloging while maintaining the DCAT standards. Topic modeling algorithm 'LDA' is used for classifying data by finding best descriptor tags based on the content automatically.
